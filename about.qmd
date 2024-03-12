@@ -1,0 +1,29 @@
+---
+title: "About"
+---
+
+# About Yiyi Yao
+
+## Introduction
+
+Yiyi Yao is a vibrant undergraduate student majoring in Statistics and Mathematics at the University of Toronto.
+
+## Academic Journey
+
+Yiyi's academic journey is marked by her dedication to mastering the complex theories of statistics and the practical applications of mathematics. She has a particular interest in using R Studio to analyze data and create insightful visualizations, and is actively building her skills in data science.
+
+## Artistic Side
+
+When not immersed in her studies, Yiyi is an avid artist. Drawing and painting are passions that allow her to express her imaginative side. She finds inspiration in her travels and the diverse cultures she experiences, which often influence the themes and styles of her artwork.
+
+## Travels and Inspiration
+
+Yiyi seeks adventure and new perspectives through her travels. Each destination offers a wealth of experiences that she brings back to her academic and artistic projects, enriching her work with global insights.
+
+## Looking Ahead
+
+As she progresses through her undergraduate degree, Yiyi is exploring opportunities where she can apply her statistical knowledge and creative thinking. She is excited about the potential to contribute to fields such as data visualization, research, and creative analytics.
+
+## Connect with Me
+
+Yiyi enjoys connecting with fellow students, professionals, and art enthusiasts. Feel free to reach out to her via email at [email](ee.yao@mail.utoronto.ca).

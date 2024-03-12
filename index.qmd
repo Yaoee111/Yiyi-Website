@@ -1,0 +1,27 @@
+---
+title: "Yiyi's Website"
+---
+
+# About Me
+
+![Yiyi Yao](profile pic.jpg){width=150px}
+
+Yiyi Yao is an undergraduate student at the University of Toronto, where she is diving into the world of statistics and mathematics. She chose this path because she loves to see how numbers can explain things we see and experience every day.
+
+When Yiyi isn't busy with her studies, she finds joy and relaxation in drawing. Whether she’s sketching a quick portrait or working on a detailed landscape, drawing is Yiyi’s way of bringing her ideas and observations to life.
+
+She also loves to travel and see new places. Each trip is a chance for her to learn something new and find inspiration for her studies and her artwork.
+
+Looking ahead, Yiyi is excited about the possibilities that her skills in math and statistics can bring. She knows that these tools can help solve problems and make sense of complicated issues. As she continues her journey in university, she hopes to use what she learns to make a difference in whatever field she chooses to pursue after graduation.
+
+## My Curriculum Vitae
+
+You can find my CV [here](YIYI CV.pdf).
+
+## My Artwork
+
+I express my creative side through drawing. Visit my [paintings gallery](art work.pdf) to view my work.
+
+## Contact
+
+For more information, please [contact me](ee.yao@mail.utoronto.ca).
